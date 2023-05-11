@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Alias for Node.js built-in 'node:stream' module",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "readable-stream",
     "node:stream",
@@ -12,5 +14,9 @@
     "nodejs"
   ],
   "author": "Gil Pedersen <gpdev@gpost.dk>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanongil/builtin-readable-stream.git"
+  }
 }
