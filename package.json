@@ -1,0 +1,16 @@
+{
+  "name": "@built-in/readable-stream",
+  "version": "0.0.0",
+  "description": "Alias for Node.js built-in 'node:stream' module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "keywords": [
+    "readable-stream",
+    "node:stream",
+    "built-in",
+    "alias",
+    "nodejs"
+  ],
+  "author": "Gil Pedersen <gpdev@gpost.dk>",
+  "license": "Unlicense"
+}
