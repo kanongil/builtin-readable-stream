@@ -1,6 +1,6 @@
 {
   "name": "@built-in/readable-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Alias for Node.js built-in 'node:stream' module",
   "main": "index.js",
   "files": [
